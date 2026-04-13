@@ -64,7 +64,7 @@ graph TD
 
 ---
 
-## 💡 AI PM 設計思維 (Design Philosophy)
+## 設計思維 (Design Philosophy)
 
 ### 1. 隱私與合規性考量 (On-Premise Deployment)
 考慮到資安與醫療領域的數據敏感性，系統在設計時優先選擇可適配 **輕量化參數規模模型** 的架構，以符合未來地端私有化佈署的產品需求。
