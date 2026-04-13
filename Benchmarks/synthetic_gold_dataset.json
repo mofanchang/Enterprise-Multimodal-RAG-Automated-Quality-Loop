@@ -1,0 +1,35 @@
+[
+  {
+    "id": "QA_001",
+    "source_type": "image",
+    "category": "Cybersecurity_Trend",
+    "question": "根據 2024 年資安威脅趨勢圖表，哪一類攻擊的增長率最高？",
+    "reference": "圖表顯示 SQL 注入攻擊 (SQL Injection) 增長率達 22%，為該年度增長最顯著的威脅。",
+    "metadata": {
+      "generated_by": "Synthetic-Engine-V1",
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": "QA_002",
+    "source_type": "audio",
+    "category": "Best_Practices",
+    "question": "專家在會議錄音中針對未授權存取提出了哪些防護建議？",
+    "reference": "專家建議應全面導入多因素認證 (MFA) 與零信任架構 (Zero Trust Architecture) 以強化邊緣端安全。",
+    "metadata": {
+      "generated_by": "Synthetic-Engine-V1",
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": "QA_003",
+    "source_type": "text",
+    "category": "Cloud_Security",
+    "question": "雲端安全性稽核報告的主要目標是什麼？",
+    "reference": "主要目標是確保雲端平台的安全性符合企業規範，並透過稽核識別潛在漏洞以提升資訊資安水平。",
+    "metadata": {
+      "generated_by": "Synthetic-Engine-V1",
+      "difficulty": "Hard"
+    }
+  }
+]
